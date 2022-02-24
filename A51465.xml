@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Most lamentable and deplorable accident which on Friday last, June 22, befell Laurence Cawthorn, a buccher in St. Nicholas Shambles in Newgate Market who being suspected to be dead by the two hasty covetousness and cruelty of his land-lady ... was suddenly and inhumanely buryed : together with the report of his moving of the body as it was carrying by the bearers to his grave, and the treating of his winding sheet with his own hands, and the lamentable shrieks and groans he made on the Saturday and Sunday following : as also the examination and commitment of his land-lord and land-lady by the lord mayor to the prison of Newgate ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51465</idno>
+            <idno type="STC">Wing M2901</idno>
+            <idno type="STC">ESTC R26205</idno>
+            <idno type="EEBO-CITATION">09386707</idno>
+            <idno type="OCLC">ocm 09386707</idno>
+            <idno type="VID">42933</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51465)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42933)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1312:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Most lamentable and deplorable accident which on Friday last, June 22, befell Laurence Cawthorn, a buccher in St. Nicholas Shambles in Newgate Market who being suspected to be dead by the two hasty covetousness and cruelty of his land-lady ... was suddenly and inhumanely buryed : together with the report of his moving of the body as it was carrying by the bearers to his grave, and the treating of his winding sheet with his own hands, and the lamentable shrieks and groans he made on the Saturday and Sunday following : as also the examination and commitment of his land-lord and land-lady by the lord mayor to the prison of Newgate ...</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Gilbertson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cawthorn, Laurence.</term>
+               <term>Burial, Premature --  Early works to 1800.</term>
+               <term>Death, Apparent --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42933:1" rendition="simple:additions"/>
+            <p>THE Moſt LAMENTABLE AND Deplorable Accident which on <hi>Friday</hi> laſt <hi>June</hi> 2<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. befell <hi>Laurence Cawthorn</hi> a butcher in St. <hi>Nicholas</hi> Sham<g ref="char:EOLhyphen"/>bles in <hi>Newgate Market,</hi> wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> being ſuſpected to be Dead, by the two haſty co<g ref="char:EOLhyphen"/>vetouſneſs and cruelty of his Land-lady Mrs. <hi>Cook</hi> in <hi>Pincock-lane,</hi> was ſuddenly and inhumanely buryed.</p>
+            <p>TOGETHER With the report of his moving of the Body as it was carrying by the Bearers to his Grave, and the treating of his Winding ſheet with his own hands, and the Lamenta<g ref="char:EOLhyphen"/>ble Shrieks and Groans he made on the <hi>Saturday</hi> and <hi>Sunday</hi> fol<g ref="char:EOLhyphen"/>lowing.</p>
+            <p>As alſo the Examination and Commitment of his Land-Lord and Land-Lady by the Lord Mayor to the Priſon of <hi>Newgate;</hi> And opening the Grave, the body expoſed to publick view on the <hi>Munday</hi> following. And the Virdict and Sentence which the Jury paſſed upon the ſight of the Body, &amp; the Examination of ſeveral witneſſes following.</p>
+            <p>For the further ſatisfaction of the people who have bin ſo extreamly miſ-informed in the particulars of this ſad Accident, that the very name of the perſon is moſt falſly repreſented.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. Gilbertſon,</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:42933:2"/>
+            <pb n="3" facs="tcp:42933:2"/>
+            <head>The moſt lamentable Death of <hi>Laurence Cauthorn,</hi> who being conceived to be dead, was put into a Coffin, and buried on <hi>Friday June 21.</hi> and being afterwards heard to have made many hideous Yells and Groans, was taken up on <hi>Monday June 24.</hi> where he was found to have broken open his ſhroud, and to have beaten himſelf to Death in the Coffin.</head>
+            <p>AMongſt all the Torments that Mankind is capable of, the moſt dreadfull of them, and that which nature moſt ſhrinks
+<pb n="4" facs="tcp:42933:3"/>
+at is to be buryed alive. Death is deſcribed to be <hi>the moſt dreadful of all things that are dreadful,</hi> becauſe it deprives the body of the ſoul, by the commerce whereof the bo<g ref="char:EOLhyphen"/>dy enjoyes all the Comforts that Life is capable to entertain; And although through many diſcon<g ref="char:EOLhyphen"/>tents and miſeries, that Life it ſelf is become unpleaſant, yet we had rather endure all Calamities then be beholding to death to releaſe us from them. The Old Man that ſtoops under the burden of his Age, though peradventure he hath all diſeaſes upon him, and all ex<g ref="char:EOLhyphen"/>tremities of want to make his Life morefull of Affliction, yet tell him of death, and you ſhall find by him that he would fain live longer, nay rather then death ſhould ſeize up<g ref="char:EOLhyphen"/>on him, you ſhall find him to be ready to excuſe his infirmities, and make you to believe that he is younger, and richer, and ſtronger, then indeed he is. There is in all
+<pb n="5" facs="tcp:42933:3"/>
+Creatures a natural deſire of Life; and Death though unavoydable is the Common Enemy againſt which they do all labour to defend themſelves.</p>
+            <p>We have read in Hiſtories that ſome Men having committed the greateſt Crimes, have been ſenten<g ref="char:EOLhyphen"/>ced to the moſt grievous puniſh<g ref="char:EOLhyphen"/>ments, as to be buried in the ground up to the Arme-pits, and ſometimes to the Chin, and all manner of ſuſtenance and comfort being denyed them, to ſtarve in the open Aire, and cry aloud for that Bread which it is Death for any man to give unto them. There is nothing in Nature that doth make men more heartily to deſire death then Famine; For Hunger is ſo violent that it breaketh thorough Stone-walls, Women have been Recorded to feed on their own Children being compelled there<g ref="char:EOLhyphen"/>unto by Hunger, and Notorious Malefactors hanging alive on Gib<g ref="char:EOLhyphen"/>bets
+<pb n="6" facs="tcp:42933:4"/>
+have been known to feed on their own Arms, or any other part of them that their Teeth could reach. But in this extremity (al<g ref="char:EOLhyphen"/>though there is no queſtion but the dolour is very great) there is ſome<g ref="char:EOLhyphen"/>thing to give ſome little comfort; as the ſight of the Paſſengers whoſe Pity and whoſe Prayers they have, the variety of Objects both of Beaſts and Birds, and ſome hope of Life whiles any thing a<g ref="char:EOLhyphen"/>live is ſeen.</p>
+            <p>But from the Grave there is no redemption; hath any one (ſaith the Wiſe man) returned from the Grave to acquaint us with the newes of the Dead, and the ſad paſ<g ref="char:EOLhyphen"/>ſages in the chambers of the grave? There is heard no joyful tread of Friends, no Gratulations of ac<g ref="char:EOLhyphen"/>quaintance, but all Oblivion, Duſt, and endleſs darkneſs.</p>
+            <p>We have heard of ſome who have been buried, and yet have been both ſeen and numbred gain
+<pb n="7" facs="tcp:42933:4"/>
+amongſt the living, as of the Pro<g ref="char:EOLhyphen"/>phet <hi>Jonas</hi> who lay three days and three nights in the belly of the Whale. He had ſurely died if he had not been buryed; we have heard of others who by ſome ſud<g ref="char:EOLhyphen"/>den dilapidations having been co<g ref="char:EOLhyphen"/>vered with rubbiſh, have as ſud<g ref="char:EOLhyphen"/>denly been reſcued from that Ru<g ref="char:EOLhyphen"/>ine, and being but duſt themſelves, have ever afterwards acknowledg<g ref="char:EOLhyphen"/>ed their thankfulneſſe to the Al<g ref="char:EOLhyphen"/>mighty who did thus deliver them from the malice of the Duſt. But in this ſtrange<g ref="char:punc">▪</g> viſitation whereof we come now to ſpeak, we find a Man dead, ſtruck dead (if we will believe the Verdict of the Search<g ref="char:EOLhyphen"/>ers) A young Man in the ſtrength and flouriſh of his youth: his com<g ref="char:EOLhyphen"/>plexion promiſed health, and his youth the acceſſe of many years, and we find this man to be buried, and to be buried alive.</p>
+            <p>The Searchers who too haſtily ſaid he was dead ought to have a
+<pb n="8" facs="tcp:42933:5"/>
+new ſearch to be made after them, for it is to believed that this young man is not alone in this Example, but that many others have ſuffe<g ref="char:EOLhyphen"/>red in the like nature, and who might have been heard to make the complaint, had their Graves been digged no deeper then this young Mans was? for if we may be<g ref="char:EOLhyphen"/>lieve report, they made ſuch haſt to bury him, that the Grave at the moſt was not half a yard in the depth.</p>
+            <p>His Name was <hi>Laurence Cawthorn,</hi> by his trade a Butcher, and having not long before lived out the time of his Apprentiſhip with commen<g ref="char:EOLhyphen"/>dable truſt and induſtry, he was now a Journyman to a Butcher in the Shambles Beyond <hi>Newgate.</hi>
+            </p>
+            <p>To be more ready to diſcharge the truſt repoſed in him, he took a lodging at a Victualers houſe, whoſe name is <hi>William Cook</hi> in <hi>Pin<g ref="char:EOLhyphen"/>cock-lane,</hi> and having on <hi>Thurſday</hi> toyled and ſweated much in the
+<pb n="9" facs="tcp:42933:5"/>
+imployment of his Trade, he in the Evening went to another Vi<g ref="char:EOLhyphen"/>ctualing houſe hard by, with ſome of his acquaintance to refreſh him<g ref="char:EOLhyphen"/>ſelf. He appeared then to be well and luſty, but whether he drank too much of Hot Waters (as ſome ſay he did) or whether he was to high in any other drink it is uncer<g ref="char:EOLhyphen"/>tain; it ſeemeth to me that neither the one or the other was the oc<g ref="char:EOLhyphen"/>caſion of this lamentable accident, for on his coming home, I find him very careful of his buſineſſe, as it became an honeſt, and a temperate man to be. He deſired ſome that were in the houſe to call him by three of the Clock, becauſe <hi>Friday</hi> being market day he had many Sheep and Lambs to kill, which muſt be ready to be ſold in the Shambles about ſeven or eight of the Cloek, a great task, he ſaid, he was to perform in a few hours.</p>
+            <p>The Task indeed was greater then he thought for little thinking
+<pb n="10" facs="tcp:42933:6"/>
+that at that time he was to en<g ref="char:EOLhyphen"/>counter hn the next morning with ſo ſore an enemy as Death.</p>
+            <p>Becauſe he would be more early to follow his buſineſs he did not on that night go to bed, but onely lay on it, his reſolution being fixed to be dreſſing of meat for the next days Market by three of the clock in the Morning.</p>
+            <p>Much about that time he was called upon (according to his de<g ref="char:EOLhyphen"/>ſires) to riſe to follow his Imploy<g ref="char:EOLhyphen"/>ment, they knoked at the dore to waken him, and knocked again, and again with louder violence, but hearing no anſwer returned, they went down the ſtairs again, uncertain of the Event, and diſpu<g ref="char:EOLhyphen"/>ting with themſelves what the matter might be.</p>
+            <p>The Morning growing Older, and all the Butchers thereabouts being buſie in their employments, the Maſter of the Victualing houſe where he lay, whoſe name is <hi>Cook,</hi>
+               <pb n="11" facs="tcp:42933:6"/>
+did go up the ſtairs himſelf to wa<g ref="char:EOLhyphen"/>ken him, he often called upon him by his name, and ſhaking and beat<g ref="char:EOLhyphen"/>ing at the door he bad him riſe, and told him how much already of the Morning was loſt, which to redeem he counſelled him preſent<g ref="char:EOLhyphen"/>ly to riſe and follow his Buſineſſe; but hearing not the leaſt noiſe in the Chamber and finding the door to be faſt bolted he much admired what might be the reaſon of it.</p>
+            <p>Going down the ſtairs he met with his wife, &amp; ſome others, where after a little reſpit of conſultation it was concluded on by all to have the door broke open.</p>
+            <p>The Smith immediately was ſent for, and it was put in execution; Entring into the Chamber they find their Lodger lying all along much like a dead man. Some ſay that he opened his eyes twice or thrice when he heard his Name called upon, and when they did ſtroke him &amp; rub him to awaken.
+<pb n="12" facs="tcp:42933:7"/>
+There are ſome others who were then in the room that ſay he hard<g ref="char:EOLhyphen"/>ly opened his eyes at all; but yet they perceived that ſtill there was warmth &amp; life in him, whereupon the Maſter of the houſe and his wife pull off his cloaths, and fairly lay him in the bed. And a diſcourſe there was amongſt the Neighbours and themſelves what ſhould be the reaſon of ſo great a diſtemper.</p>
+            <p>It is not to be diſſembled, but ſome reported that on the night before he had drank off with ſome few of his Companions a whole quart of hot Waters, and they im<g ref="char:EOLhyphen"/>puted (as indeed well they might) the violence of that dead ſleep upon him to the violence of the hot waters, the exceſs whereof had cauſed ſo profound a ſlumber.</p>
+            <p>The Maſter of the Victualling houſe where he lay not knowing what to do, repairs to a Neighbour hard by, who alſo keeps a Victual<g ref="char:EOLhyphen"/>ling houſe, and where this young
+<pb n="13" facs="tcp:42933:7"/>
+Butcher for the moſt part rendez<g ref="char:EOLhyphen"/>vouzed when he had any hours of leiſure to drink with his Friends, he cals him about five of the clock in the morning, and acquaints him in what a deſperate condition <hi>Lau<g ref="char:EOLhyphen"/>rence Cawthorn</hi> (for ſo was the Butcher called) lay.</p>
+            <p>He aſſures him that he went off well from his houſe about nine or ten of the clock at night at the ſur<g ref="char:EOLhyphen"/>theſt, and wondring what might be the occaſion of this diſtemper, he goes along with him, and look<g ref="char:EOLhyphen"/>ing on him, he much laments his Condition, and concludes he is a dead Man.</p>
+            <p>There are ſome (but I know not with what truth) that do give forth, that this <hi>Laurence Cawthorn</hi> was ſubject to have ſtrange Fits, &amp; that ſometimes he would lie in a trance like a dead man for many hours together, they conjectured that the heat of the waters meet<g ref="char:EOLhyphen"/>ing with ſuch a diſtemper when it
+<pb n="14" facs="tcp:42933:8"/>
+was growing on him it did render his preſent condition ſo extremely deſperate.</p>
+            <p>Howſoever it was; about ſix or ſeven of the clock in the morning, all that did look upon him did conclude him to be dead, and that there was not the leaſt ſign or appearance<g ref="char:punc">▪</g> of life in him.</p>
+            <p>Hereupon the Searchers were ſent for, who turn and look upon the Corps, and with the more Circumſpection becauſe there were one or two at that time below the Stairs, who ſaid, that at the time of his departing, there were ſome Spo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ap<g ref="char:EOLhyphen"/>peared upon his breaſt, which preſently afterwards did vaniſh away and go in again.</p>
+            <p>The Searchers gave no heed to that report, but concluded that he died of the <hi>Quinſey,</hi> a Diſeaſe which ſwelling in the throat doth in a ſhort time deprive the perſon that is afflicted with it of the uſe of his Breath.</p>
+            <p>They now provide for his Burial. The Woman in whoſe houſe he died would have it performed that very Evening, which hath brought no ſmall ſuſpition upon her ſhe deſired his Goods, which indeed were not very conſiderable, ſhe
+<pb n="15" facs="tcp:42933:8"/>
+had been the occaſion that the young Man made more haſt to his Grave then the courſe of Nature doth allow. She takes her husband with her, and repair<g ref="char:EOLhyphen"/>eth to the other Victualler where <hi>Lau<g ref="char:EOLhyphen"/>rence</hi> for the moſt part was accuſtomed to go, to know what he would contribute to the burial; he told her that <hi>Laurence</hi> died twenty ſhillings or thereabouts in his debt which he was well able to prove, and let him have but his Cloaths he would bury him like a Chriſtian.</p>
+            <p>This ſhe ſeemed unwilling to grant &amp; faultred in her accounts, ſometimes pre<g ref="char:EOLhyphen"/>tending that her dead Tenant owed her ſo much Money, and ſometimes ſo much, which the neighbours that heard of it were unwilling to receive into their be<g ref="char:EOLhyphen"/>lief; for it was agreed upon on all ſides <hi>Laurence</hi> was an honeſt man, and paying but 8 <hi>d.</hi> a week for his Lodging could not be much in her debt; and if he had been backward to pay, yet her greedines of Money was ſuch, eſpecially where ſhe found any hopes of it to ſmile upon her, that ſhe would not let him. She makes uſe of his cloaths for her own advantage &amp; makes all things ready for the Burial.</p>
+            <p>While the neighbours are murmuring
+<pb facs="tcp:42933:9"/>
+at this diſpatch, &amp; that things are carri<g ref="char:EOLhyphen"/>ed in<g ref="char:punc">▪</g> ſo great a hurrey, the Bearers are come to carry their fatal Burden to the Grave. Some there are who report that in the way one of them perceived the <hi>Corps</hi> to ſtir in the <hi>Coffin</hi> but it is not to be be<g ref="char:EOLhyphen"/>lieved that any Man can be guilty of ſo great an inhumanity.</p>
+            <p>The Body was buried in the common Churchyard belonging to Chriſt Church and it is reported by divers, that they heard on the <hi>Saturday</hi> &amp; <hi>Sunday</hi> follow<g ref="char:EOLhyphen"/>ing great groanings and ſhriekings in the ſame place where the Body was buried, and one acquainting another with the wonder of it, they were all equally <g ref="char:punc">▪</g>a<g ref="char:EOLhyphen"/>mazed and afrighted.</p>
+            <p>On <hi>Monday</hi> morning <hi>June</hi> 24. the dead Body was digged up, which was not buried above half a yard in the Ground: and it being expoſed to the publick View every one ſpake of it as his Fancy did ſuggeſt unto him. Some ſaid that the Shroud was torne in pieces; others that the eyes were ſwollen, and the brains beaten out of the head, and clots<g ref="char:punc">▪</g> of blood were to be ſeen at the mouth, and the breaſt all over black and blew. The Coroner was ſent for and a Jury impannelled, who are to give their Virdict in tomorrow, being <hi>Thurſday June</hi> 25. In the mean time my Lord Mayor hath commit<g ref="char:EOLhyphen"/>ted the Man &amp; Woman of the houſe where the Butcher dyed to Newgate, where the Law<g ref="char:punc">▪</g> is to paſſe upon them according to their demerit.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42933:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
